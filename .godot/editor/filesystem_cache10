@@ -1,0 +1,6 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1793389568
+::res://audio/::1793387143
+greeting.wav::AudioStreamWAV::2705709698528017462::1793387143::1793389569::1::::<><><>0<>0<>6433efaba1f9ef500c4e23f129b9ca86<>res://.godot/imported/greeting.wav-de7b58c54f2d074d5743c06afe484027.sample::
+::res://scenes/::1793387143
+robot.tscn::PackedScene::-1::1793387143::0::1::::<><><>0<>0<><>::res://audio/greeting.wav
